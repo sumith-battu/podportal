@@ -1,0 +1,26 @@
+.trending-cards {
+    display: flex;
+    flex-direction: row;
+}
+
+.freq-lis-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.fav-lis-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.freq-lis{
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.fav-lis{
+    margin-top: 50px;
+    padding: 30px;
+}

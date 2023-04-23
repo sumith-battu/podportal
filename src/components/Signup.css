@@ -1,0 +1,13 @@
+.signup-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.info-container{
+    width: 50%;;
+}
+
+.image-container{
+    width: 50%;
+    height: 100%;
+}
